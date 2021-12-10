@@ -31,9 +31,16 @@ https://arxiv.org/pdf/2111.11294.pdf
 
 Keywords: general-purpose user representation learning, recommender systems, GPT, BERT, Self-Supervised Lifelong learning, Contrastive Learning, transfer learning
 
-5 Exploiting Behavioral Consistence for Universal User Representation AAAI2021
+5 Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training
 
-https://arxiv.org/pdf/2012.06146.pdf
+Publications of ICDM2021 https://fajieyuan.github.io/papers/ICDM2021.pdf
+
+Keywords: general-purpose user representation learning, recommender systems, Self-Supervised Lifelong learning, Contrastive Learning, transfer learning，user behaviors
+
+
+6 Exploiting Behavioral Consistence for Universal User Representation 
+
+Publications of AAAI2021 https://arxiv.org/pdf/2012.06146.pdf
 
 Keywords: general-purpose user representation learning, recommender systems, transfer learning, user  modeling, user profiling
 
