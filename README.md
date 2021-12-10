@@ -5,17 +5,17 @@ We list several papers in the recommendation field that learning universal user 
 
 1 One Person, One Model, One World: Learning Continual User Representation without Forgetting. 
 
-SIGIR2021 https://arxiv.org/abs/2009.13724
+Publications of SIGIR2021 https://arxiv.org/abs/2009.13724
 
-Code& Dataset: https://github.com/fajieyuan/SIGIR2021_Conure
+Code & Dataset: https://github.com/fajieyuan/SIGIR2021_Conure
 
 Keywords:  lifelong learning, universal user representations, pretraining, transfer learning, finetuning, user profile prediction, cold-start problem
 
 2 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation 
 
-SIGIR2020 https://arxiv.org/abs/2001.04253
+Publications of SIGIR2020 https://arxiv.org/abs/2001.04253
 
-Code& Dataset: https://github.com/fajieyuan/SIGIR2020_peterrec
+Code & Dataset: https://github.com/fajieyuan/SIGIR2020_peterrec
 
 Keywords: self-supervised learning, user behaviors, pre-training, transfer learning, user representation, user profile prediction, cold-start problem
 
