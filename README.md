@@ -1,4 +1,4 @@
-# papers of lifelong_learning_universal_user_representation
+# Papers of lifelong_learning_universal_user_representation
 learning universal user representation with lifelong learning mechanism for recommender systems
 
 We list several papers in the recommendation field that learning universal user representations that support lifelong or continual learning.
@@ -29,4 +29,4 @@ Keywords: Universal User Representations, Self-Supervised Lifelong learning, Use
 
 https://arxiv.org/pdf/2111.11294.pdf
 
-Keywords: generalpurpose user representation learning, recommender systems, GPT, BERT, Self-Supervised Lifelong learning, Contrastive Learning, transfer learning
+Keywords: general-purpose user representation learning, recommender systems, GPT, BERT, Self-Supervised Lifelong learning, Contrastive Learning, transfer learning
