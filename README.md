@@ -30,3 +30,10 @@ Keywords: Universal User Representations, Self-Supervised Lifelong learning, Use
 https://arxiv.org/pdf/2111.11294.pdf
 
 Keywords: general-purpose user representation learning, recommender systems, GPT, BERT, Self-Supervised Lifelong learning, Contrastive Learning, transfer learning
+
+5 Exploiting Behavioral Consistence for Universal User Representation AAAI2021
+
+https://arxiv.org/pdf/2012.06146.pdf
+
+Keywords: general-purpose user representation learning, recommender systems, transfer learning, user  modeling, user profiling
+
