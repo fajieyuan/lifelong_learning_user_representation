@@ -1,4 +1,4 @@
-# Papers of lifelong_learning_universal_user_representation
+# Papers of lifelong_universal_user_representations for recommendation
 learning universal user representation with lifelong learning mechanism for recommender systems
 
 We list several papers in the recommendation field that learning universal user representations that support lifelong or continual learning.
