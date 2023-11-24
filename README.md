@@ -1,4 +1,6 @@
 # Papers of lifelong_universal_user_representations for recommendation
+#https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
+
 learning universal user representation with lifelong learning mechanism for recommender systems
 
 We list several papers in the recommendation field that learning universal user representations that support lifelong or continual learning.
