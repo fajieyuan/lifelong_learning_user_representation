@@ -21,28 +21,15 @@ Code & Dataset: https://github.com/fajieyuan/SIGIR2020_peterrec
 
 Keywords: self-supervised learning, user behaviors, pre-training, transfer learning, user representation, user profile prediction, cold-start problem
 
-3 Learning Universal User Representations via Self-Supervised Lifelong Behaviors Modeling
-
-Openreviewe: https://openreview.net/forum?id=YTtMaJUN_uc
-
-Keywords: Universal User Representations, Self-Supervised Lifelong learning, User Behaviors Modeling, Contrastive Learning
-
-4 Scaling Law for Recommendation Models: Towards General-purpose User Representations
+3 Scaling Law for Recommendation Models: Towards General-purpose User Representations
 
 https://arxiv.org/pdf/2111.11294.pdf
 
 Keywords: general-purpose user representation learning, recommender systems, GPT, BERT, Self-Supervised Lifelong learning, Contrastive Learning, transfer learning
 
-5 Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training
+4 Learning Transferable User Representations with Sequential Behaviors via Contrastive Pre-training
 
 Publications of ICDM2021 https://fajieyuan.github.io/papers/ICDM2021.pdf
 
 Keywords: general-purpose user representation learning, recommender systems, Self-Supervised Lifelong learning, Contrastive Learning, transfer learning，user behaviors
-
-
-6 Exploiting Behavioral Consistence for Universal User Representation 
-
-Publications of AAAI2021 https://arxiv.org/pdf/2012.06146.pdf
-
-Keywords: general-purpose user representation learning, recommender systems, transfer learning, user  modeling, user profiling
 
