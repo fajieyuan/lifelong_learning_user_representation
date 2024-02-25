@@ -1,6 +1,16 @@
 # Papers of lifelong_universal_user_representations for recommendation
 ## Move to https://github.com/westlake-repl/Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review
 
+## Three Large-scale Recommendation datasets for evaluating foundation recommendation models or transferable recommendaiton models
+
+(1) PixelRec: https://github.com/westlake-repl/PixelRec
+
+(2) NineRec: https://github.com/westlake-repl/NineRec
+
+(3) MicroLens: https://github.com/westlake-repl/MicroLens
+
+(4) Tenrec: https://github.com/yuangh-x/2022-NIPS-Tenrec
+
 learning universal user representation with lifelong learning mechanism for recommender systems
 
 We list several papers in the recommendation field that learning universal user representations that support lifelong or continual learning.
